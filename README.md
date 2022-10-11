@@ -12,6 +12,10 @@
 * It is the simple one and users can understand very easily.
 
 ## Execution Flow of the Program
-1. When we execute the project code, we will see some welcome text on screen.
+1. When we execute the project code and after entering the above mentioned "Password" we will see some welcome text on screen.
+ 
+
+
+<img src="images/1.png" height="500" width="700" right="100" >
  
 
